@@ -241,9 +241,9 @@ final_value = ir_value - baseline_value;
 ├── README.md
 ├── CG1111A Project Report.pdf
 └── Code/
-    ├── mBot_Main.ino          # Main control logic
-    ├── LDR_Code.ino           # Colour sensor functions
-    └── Motor_Code.ino         # Motor control functions
+    ├── MBot_Main_final.ino          # Main control logic
+    ├── LDR_final.ino           # Colour sensor functions
+    └── Motor_final.ino         # Motor control functions
 ```
 
 ## 🧪 Testing & Calibration
